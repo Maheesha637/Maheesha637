@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sandunimaheesha569@gmail.com**
 
-- 📄Passionate about [Java & Web Development](Java & Web Development)
+- 📄Passionate about Java & Web Development
 
 - ⚡ Fun fact **I believe practice makes perfect**
 
