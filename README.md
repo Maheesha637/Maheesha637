@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheesha637" alt="maheesha637" /></a> </p>
 
-- 🔭 I’m currently working on **Java and HTML using IntelliJ IDEA.**
+- 🔭 Currently building Full-Stack Web Applications using Java, Spring Boot, and MySQL.**
 
-- 🌱 I’m currently learning **Full-stack MERN Apps**
+- 🌱  Exploring the MERN Stack and modern web technologies.**
 
-- 👯 I’m looking to collaborate on **Movie Rental Review Platform**
+- 👯 Open to collaborating on Full-Stack Web Development projects.**
 
 - 📫 How to reach me **sandunimaheesha569@gmail.com**
 
-- 📄Passionate about Java & Web Development
+- 💻 Passionate about Java, Spring Boot, and Web Development.
 
 - ⚡ Fun fact **I believe practice makes perfect**
 
