@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheesha637" alt="maheesha637" /></a> </p>
 
-- 🔭 Currently building Full-Stack Web Applications using Java, Spring Boot, and MySQL.**
+- 🔭 Currently building Full-Stack Web Applications using Java, Spring Boot, and MySQL.
 
-- 🌱  Exploring the MERN Stack and modern web technologies.**
+- 🌱  Exploring the MERN Stack and modern web technologies.
 
-- 👯 Open to collaborating on Full-Stack Web Development projects.**
+- 👯 Open to collaborating on Full-Stack Web Development projects.
 
 - 📫 How to reach me **sandunimaheesha569@gmail.com**
 
